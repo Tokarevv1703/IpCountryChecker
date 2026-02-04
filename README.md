@@ -20,7 +20,7 @@
 2. Выполните команду
 
    
-##Вывод полный 
+## Вывод полный 
 C:\Users\YA3\Desktop\IpCountryChecker>dotnet run
 Загрузка IP из файла ips.txt...
 
