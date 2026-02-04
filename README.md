@@ -52,3 +52,5 @@ CN: 1
 Düsseldorf
 Falkenstein
 Frankfurt am Main
+
+Используется только Newtonsoft.Json, как разрешено в ограничениях
